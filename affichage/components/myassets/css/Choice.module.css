@@ -1,0 +1,50 @@
+body {
+    background-color: burlywood;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.h1{
+    text-align: center;
+}
+.choix{
+    height: 700px;
+    width: 100%;
+    margin : 0 auto;
+    background-color:burlywood;
+    
+    
+}
+.util{
+    height:650px;
+    width:50%;
+    float:left;
+    background-color: beige;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+
+}
+.admin{
+    height:650px;
+    width:50%;
+    float:right;
+    background-color: bisque;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn_util{
+    border-width: 2px;
+    border-style: solid;
+    border-color: burlywood;
+    width: 300px; height: 60px;
+    
+}
+.btn_admin{
+    border-width: 2px;
+    border-style: solid;
+    border-color: burlywood;
+    width: 300px; height: 60px;
+}

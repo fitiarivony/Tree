@@ -1,0 +1,22 @@
+nav{
+    background-color:brown;
+   
+}
+#navlink{
+    color: rgb(252, 252, 252);
+}
+#card-header{
+    background-color: rgb(255, 212, 156) ;
+}
+
+body{
+    background-color: rgb(35, 33, 33);
+}
+.bouton{
+    height:50px ;
+    background-color: brown;
+    border-radius: 1px;
+}
+.bouton:hover{
+    color:black;
+}
